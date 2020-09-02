@@ -1,0 +1,166 @@
+.header {
+  text-align: center;
+}
+
+.toast {
+  margin: 0 auto;
+}
+
+.custom-btn-toolbar {
+  display: inline !important;
+}
+
+.custom-btn-toolbar > .btn {
+  margin-right: 1rem;
+}
+
+.navbar-default {
+ background-color:#722872;
+}
+
+.mainPageDesc {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; 
+  -webkit-box-orient: vertical;
+}
+
+.mainPageTitle, .individualTitle {
+  font-weight: bold;
+  font-style:italic;
+  float:left;
+}
+
+.container-fluid {
+  margin:20px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  border-radius: 5px;
+  border:1px solid gray;
+  padding:15px;
+}
+
+.searchCard{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  border-radius: 5px;
+  border:1px solid gray;
+  padding:15px;
+}
+
+.bookmarkImage {
+  border-style:double;
+  border-color:#D3D3D3;
+  object-fit: cover;
+  height:200px;
+  object-fit: cover;
+  width:200px;
+}
+
+.mainPageImage {
+  height:250px;
+  width:100%;
+  border-style:double;
+  border-color:#D3D3D3;
+  object-fit: cover;
+}
+
+.mainPageSection {
+  padding:5px;
+  border-radius: 5px;
+  color:white;
+  font-weight: bold;
+}
+
+.mainPageDate {
+  font-style: italic;
+}
+
+.individualDate {
+  font-style: italic;
+  font-size: 20px;
+}
+
+.individualDesc {
+  font-size:18px;
+}
+
+.individualImage {
+  width:100%;
+  object-fit: cover;
+}
+
+.world {
+  background: #8262ea;
+}
+
+.politics {
+  background: #3c9686;
+}
+
+.sport, .sports {
+  background: #edbf3e;
+  color:black;
+}
+
+.business {
+  background: #5092e6;
+}
+
+.technology {
+  background: #ccda43;
+  color:black;
+}
+
+.guardian {
+  background:#152641;
+}
+
+.nytimes {
+  background: #ececec;
+  color:black;
+}
+
+.other {
+  background: #6d737a;
+  color:white;
+}
+
+.nytimes_navbar {
+  color: white;
+  padding-right:10px;
+}
+
+.guardian_navbar {
+  color:white;
+  padding-left:10px;
+}
+
+.wrapper {
+  text-align:center;
+  width:98%;
+}
+
+.contents {
+  text-align:left;
+}
+
+.toastMessage {
+  color:black;
+}
+
+.bookmarkCardTitle {
+  font-weight: bold;
+  font-style:italic;
+}
+
+
+.bookmarkPageSection {
+  padding:5px;
+  border-radius: 5px;
+  color:white;
+  font-weight: bold;
+  font-size:13px;
+}
+
+a {
+  cursor: pointer;
+}
